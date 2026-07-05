@@ -17,6 +17,14 @@ AI / LLMOps engineer from Qatar 🇶🇦. I take LLMs from cool demo to actually
 - 📐 Big fan of **math** and figuring out how computers really work
 - ☁️ Addicted to **Linux & Cloud**
 
+### 🎯 Next up
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20LLM%20Internals-🧠-blueviolet?style=for-the-badge" />
+
+Going lower level: C and Go, plus digging into how LLMs actually work under the hood.
+
 </td>
 <td width="38%" valign="top" align="center">
 
@@ -48,16 +56,6 @@ AI / LLMOps engineer from Qatar 🇶🇦. I take LLMs from cool demo to actually
 <br><br>
 <img src="https://ghchart.rshah.org/00D9FF/AbdullahAlakhras" alt="Contribution graph" width="90%" />
 </div>
-
-## 🎯 Next Up
-
-<p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep%20LLM%20Internals-🧠-blueviolet?style=for-the-badge" />
-</p>
-
-<p align="center">Going lower level: C and Go, plus digging into how LLMs actually work under the hood.</p>
 
 <div align="center">
 
