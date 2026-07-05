@@ -44,8 +44,9 @@ AI / LLMOps engineer from Qatar 🇶🇦. I take LLMs from cool demo to actually
 ## 📊 Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahAlakhras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlakhras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img src="https://streak-stats.demolab.com?user=AbdullahAlakhras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+<br><br>
+<img src="https://ghchart.rshah.org/00D9FF/AbdullahAlakhras" alt="Contribution graph" width="90%" />
 </div>
 
 <div align="center">
