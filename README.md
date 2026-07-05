@@ -10,11 +10,11 @@
 
 ## 👋 Hey, I'm Abdullah
 
-🧠 **AI / LLMOps Engineer** from Qatar 🇶🇦 — I take LLMs from *demo* to *production*.
+AI / LLMOps engineer from Qatar 🇶🇦. I take LLMs from cool demo to actually running in production.
 
-- 🚀 Building & deploying **LLM pipelines** at scale
-- ♻️ Reviving **old computers** into homelab servers
-- 📐 In love with **math** & how computers work
+- 🚀 Building and shipping **LLM pipelines**
+- ♻️ Giving **old computers** a second life as homelab servers
+- 📐 Big fan of **math** and figuring out how computers really work
 - ☁️ Addicted to **Linux & Cloud**
 
 </td>
@@ -50,6 +50,6 @@
 
 <div align="center">
 
-*"Old hardware never dies — it just gets a new IP address."* 🖥️⚡
+*Old hardware never dies, it just gets a new IP address* 🖥️⚡
 
 </div>
