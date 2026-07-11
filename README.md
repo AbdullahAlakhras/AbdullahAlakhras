@@ -32,6 +32,9 @@ Going lower level: C and Go, plus digging into how LLMs actually work under the 
 
 <img src="https://img.shields.io/badge/Homelab-Online%20⚡-success?style=for-the-badge" />
 
+<img src="https://komarev.com/ghpvc/?username=AbdullahAlakhras&style=for-the-badge&color=00D9FF" alt="Profile views" />
+
+
 </td>
 </tr>
 </table>
@@ -60,7 +63,6 @@ Going lower level: C and Go, plus digging into how LLMs actually work under the 
 <div align="center">
 
 *Old hardware never dies, it just gets a new IP address* 🖥️⚡
-<img src="https://komarev.com/ghpvc/?username=AbdullahAlakhras&style=for-the-badge&color=00D9FF" alt="Profile views" />
 </div>
 
 
