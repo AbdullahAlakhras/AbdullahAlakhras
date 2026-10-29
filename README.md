@@ -52,15 +52,6 @@ Going lower level: C and Go, plus digging into how LLMs actually work under the 
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </p>
 
-## 📊 Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=AbdullahAlakhras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-<br><br>
-<img src="https://ghchart.rshah.org/00D9FF/AbdullahAlakhras" alt="Contribution graph" width="90%" />
-</div>
-
-<div align="center">
 
 *Old hardware never dies, it just gets a new IP address* 🖥️⚡
 </div>
